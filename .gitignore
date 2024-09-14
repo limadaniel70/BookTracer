@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 # Sqlite files
-.sqlite
-.db
+*.sqlite
+*.db
